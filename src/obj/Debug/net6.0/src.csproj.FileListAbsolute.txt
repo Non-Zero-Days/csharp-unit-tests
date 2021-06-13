@@ -1,0 +1,12 @@
+c:\dev\non-zero-days\csharp-unit-tests\src\bin\Debug\net6.0\src.deps.json
+c:\dev\non-zero-days\csharp-unit-tests\src\bin\Debug\net6.0\src.dll
+c:\dev\non-zero-days\csharp-unit-tests\src\bin\Debug\net6.0\ref\src.dll
+c:\dev\non-zero-days\csharp-unit-tests\src\bin\Debug\net6.0\src.pdb
+c:\dev\non-zero-days\csharp-unit-tests\src\obj\Debug\net6.0\src.csprojAssemblyReference.cache
+c:\dev\non-zero-days\csharp-unit-tests\src\obj\Debug\net6.0\src.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\non-zero-days\csharp-unit-tests\src\obj\Debug\net6.0\src.AssemblyInfoInputs.cache
+c:\dev\non-zero-days\csharp-unit-tests\src\obj\Debug\net6.0\src.AssemblyInfo.cs
+c:\dev\non-zero-days\csharp-unit-tests\src\obj\Debug\net6.0\src.csproj.CoreCompileInputs.cache
+c:\dev\non-zero-days\csharp-unit-tests\src\obj\Debug\net6.0\src.dll
+c:\dev\non-zero-days\csharp-unit-tests\src\obj\Debug\net6.0\ref\src.dll
+c:\dev\non-zero-days\csharp-unit-tests\src\obj\Debug\net6.0\src.pdb
